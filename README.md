@@ -8,21 +8,21 @@ This repo collects the kit's sketches and dependencies into a single place, with
 
 The VSCode workspace file `HackerBox0046.code-workspace` contains the following projects:
 
-* Blink
+### Blink
 
 A simple sketch that blinks an LED to ensure the Arduino and development environment is working.
 
-* Knight-Rider
+### Knight-Rider
 
 Uses a seven LED bar to simulate a Knight Rider style light bar.
 
-* POV (Persistence of Vision)
+### POV (Persistence of Vision)
 
 Uses a seven LED bar to display text.
 
 See also [Arduino POV Project](https://www.instructables.com/Simple-Arduino-POV-Wand/) from Ahmad Saeed.
 
-* E-Paper
+### E-Paper
 
 I was never able to get any of the e-paper examples to work. I suspect the the original code assumed some older or specific version of the `Adafruit GFX` or the `GxEPD` libraries. Or maybe I just wired it wrong.
 
